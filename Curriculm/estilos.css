@@ -1,0 +1,13 @@
+body{
+    text-align:  center;
+}
+header p{
+    color: aqua;
+}
+section{
+    margin-bottom: 25px;
+}
+h2{
+    color: aquamarine;
+    border-bottom: 1px solid cadetblue;
+}
